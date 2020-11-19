@@ -7,11 +7,11 @@
 - Pseduo Huber loss
 
 ## 2.Binary Classification Loss Functions
-- Binary Cross-Entropy 
+- Binary Cross-Entropy or log loss 
 - Hinge Loss
 - Squared Hinge Loss
 
 ## 3.Multi-Class Classification Loss Functions
-- Multi-Class Cross-Entropy Loss
+- Multi-Class Cross-Entropy Loss or log loss
 - Sparse Multiclass Cross-Entropy Loss
 - Kullback Leibler Divergence Loss
