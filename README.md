@@ -4,9 +4,10 @@
 - Mean Squared Error Loss
 - Mean Squared Logarithmic Error Loss
 - Mean Absolute Error Loss
+- Pseduo Huber loss
 
 ## 2.Binary Classification Loss Functions
-- Binary Cross-Entropy
+- Binary Cross-Entropy 
 - Hinge Loss
 - Squared Hinge Loss
 
