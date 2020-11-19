@@ -1,9 +1,9 @@
 # Loss-or-Cost-Functions
 
 ## 1.Regression Loss Functions
-- Mean Squared Error Loss
-- Mean Squared Logarithmic Error Loss
-- Mean Absolute Error Loss
+- Mean Square Error/Quadratic Loss/L2 Loss
+- Mean Absolute Error Loss/L1 Loss
+- Mean Bias Error
 - Pseduo Huber loss
 
 ## 2.Binary Classification Loss Functions
